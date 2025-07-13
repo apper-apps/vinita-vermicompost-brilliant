@@ -42,7 +42,7 @@ const Header = () => {
           <div className="hidden lg:flex items-center space-x-4">
             <div className="flex items-center space-x-2 text-sm">
               <ApperIcon name="Phone" className="text-primary" size={16} />
-              <span className="text-gray-700">+91 98765 43210</span>
+              <span className="text-gray-700">+91 84489 37972</span>
             </div>
             <div className="flex items-center space-x-2 text-sm">
               <ApperIcon name="MapPin" className="text-primary" size={16} />
