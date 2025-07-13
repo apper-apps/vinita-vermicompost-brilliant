@@ -70,14 +70,14 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <ApperIcon name="Phone" className="text-accent" size={16} />
-                <a href="tel:+919876543210" className="text-gray-300 hover:text-white transition-colors">
-                  +91 98765 43210
+                <a href="tel:+918448937972" className="text-gray-300 hover:text-white transition-colors">
+                  +91 8448 937972
                 </a>
               </div>
               <div className="flex items-center space-x-3">
                 <ApperIcon name="Mail" className="text-accent" size={16} />
                 <a href="mailto:info@vinitavermicompost.com" className="text-gray-300 hover:text-white transition-colors">
-                  info@vinitavermicompost.com
+                  info@vvinitavermicompost.com
                 </a>
               </div>
             </div>
