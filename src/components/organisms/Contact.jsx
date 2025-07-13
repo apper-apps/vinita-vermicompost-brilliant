@@ -78,14 +78,14 @@ const Contact = () => {
     {
       icon: "Phone",
       title: "Phone",
-      value: "+91 98765 43210",
-      action: "tel:+919876543210"
+      value: "+91 84489 37972",
+      action: "tel:+918448937972"
     },
     {
       icon: "Mail",
       title: "Email",
-      value: "info@vinitavermicompost.com",
-      action: "mailto:info@vinitavermicompost.com"
+      value: "info@Vvinitavermicompost.com",
+      action: "mailto:info@Vvinitavermicompost.com"
     },
     {
       icon: "MapPin",
@@ -274,7 +274,7 @@ const Contact = () => {
               
               <div className="space-y-3">
                 <a
-                  href="https://wa.me/919876543210?text=Hi! I'm interested in Vinita Vermicompost products."
+                  href="https://wa.me/918448937972?text=Hi! I'm interested in Vinita Vermicompost products."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-3 bg-white/20 rounded-lg p-3 hover:bg-white/30 transition-colors duration-200"
@@ -284,7 +284,7 @@ const Contact = () => {
                 </a>
                 
                 <a
-                  href="tel:+919876543210"
+                  href="tel:+918448937972"
                   className="flex items-center space-x-3 bg-white/20 rounded-lg p-3 hover:bg-white/30 transition-colors duration-200"
                 >
                   <ApperIcon name="Phone" size={20} />
