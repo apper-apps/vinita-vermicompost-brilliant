@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "name": "Rajesh Kumar",
+    "location": "Agra, UP",
+    "role": "Farmer",
+    "message": "Vinita Vermicompost has transformed my farm. My crop yield increased by 30% and the soil quality has improved significantly. Highly recommended for all farmers!",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "Id": 2,
+    "name": "Priya Sharma",
+    "location": "Delhi",
+    "role": "Home Gardener",
+    "message": "I've been using Vinita Vermicompost for my terrace garden for 6 months. My vegetables are healthier and tastier than ever before. Great quality product!",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "Id": 3,
+    "name": "Suresh Patel",
+    "location": "Gujarat",
+    "role": "Nursery Owner",
+    "message": "We use Vinita Vermicompost for all our plants. The quality is consistent and our customers are happy with the healthy plants they receive from us.",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "Id": 4,
+    "name": "Anjali Singh",
+    "location": "Lucknow, UP",
+    "role": "Organic Farmer",
+    "message": "Being an organic farmer, I was looking for chemical-free fertilizers. Vinita Vermicompost is perfect - pure, organic, and highly effective for my crops.",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
+  },
+  {
+    "Id": 5,
+    "name": "Mohammed Ali",
+    "location": "Maharashtra",
+    "role": "Vegetable Farmer",
+    "message": "The delivery was prompt and packaging was excellent. My vegetables have better color, taste, and shelf life after using this vermicompost. Great service!",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
+  }
+]

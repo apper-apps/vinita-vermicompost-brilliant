@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "name": "Premium Vermicompost - 1kg Pack",
+    "size": "1kg",
+    "price": 150,
+    "benefits": [
+      "Rich in organic matter and nutrients",
+      "Improves soil structure and water retention",
+      "Enhances plant growth and yield",
+      "Chemical-free and eco-friendly",
+      "Perfect for home gardens and potted plants"
+    ],
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "Id": 2,
+    "name": "Premium Vermicompost - 5kg Pack",
+    "size": "5kg",
+    "price": 650,
+    "benefits": [
+      "Bulk pack for medium-sized gardens",
+      "Cost-effective solution for regular use",
+      "Boosts soil fertility naturally",
+      "Contains beneficial microorganisms",
+      "Ideal for vegetable gardens and flower beds"
+    ],
+    "image": "https://images.unsplash.com/photo-1574263867128-b2c3c2f1d1e6?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "Id": 3,
+    "name": "Premium Vermicompost - 25kg Pack",
+    "size": "25kg",
+    "price": 2800,
+    "benefits": [
+      "Large pack for commercial farming",
+      "Maximum value for money",
+      "Suitable for acre-level farming",
+      "Improves crop quality and quantity",
+      "Best for nurseries and large gardens"
+    ],
+    "image": "https://images.unsplash.com/photo-1595543505317-130f97e50d14?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+  }
+]
