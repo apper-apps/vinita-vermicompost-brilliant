@@ -4,7 +4,7 @@ import ApperIcon from "@/components/ApperIcon"
 const WhatsAppButton = () => {
   const handleWhatsAppClick = () => {
     const message = "Hi! I'm interested in Vinita Vermicompost products. Please share more details."
-    const phone = "919876543210" // Replace with actual WhatsApp number
+    const phone = "918448937972" // Replace with actual WhatsApp number
     const url = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`
     window.open(url, "_blank")
   }
